@@ -93,7 +93,7 @@ body{
   background-color: white;
   /* background-color: rgba(0, 0, 0, 0.4); */
   margin: 10px auto;
-  box-shadow: 3px 3px 5px 0px #161E54;
+  box-shadow: 3px 3px 9px 0px #161E54;
 }
 .abt p{
   color: #161E54;
@@ -228,6 +228,7 @@ marquee{
 }
 p{
     color: var(--clr);
+    font-family: 'Roboto Condensed', sans-serif !important;
 }
 .testimonies{
     background: rgb(0, 0, 24);
